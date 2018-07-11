@@ -1,4 +1,7 @@
 # AlexNet-with-tensorflow
+
+![Result IMAGE](./hero-image.png)
+
 This is an implement of AlexNet with tensorflow. 
 
 The code is an implement of AlexNet with tensorflow. The explantation can be seen here:
