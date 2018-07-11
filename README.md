@@ -3,7 +3,7 @@ This is an implement of AlexNet with tensorflow.
 
 The code is an implement of AlexNet with tensorflow. The explantation can be seen here:
 
-
+https://medium.com/@yukunpengba/understand-alexnet-in-just-3-minutes-with-hands-on-code-using-tensorflow-925d1e2e2f82
 
 Make sure you have the following before running the code:
 
