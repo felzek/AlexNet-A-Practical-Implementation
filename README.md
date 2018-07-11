@@ -12,7 +12,7 @@ OpenCV
 Tensorflow
 
 
-Have the model file "bvlc_alexnet.npy" donwloaded [here](http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/) and in the directory.
+Put all the images you would like to test in the testModel folder. Have the model file "bvlc_alexnet.npy" donwloaded [here](http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/) and in the directory.
 
 Run the test file with "**python testModel.py**", you will see images with their predicted labels (press any key to move on to the next image).
 
